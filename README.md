@@ -3,3 +3,5 @@ A place to keep transformation and information-extracting pipelines that aid in 
 
 ## Changelog
 2022-01-09 - added Lever for Change bulk data downloader (requires Torque and MWClient credentials)
+           - added Neo4j connector script for notebook integration
+           
