@@ -2,6 +2,9 @@
 A place to keep transformation and information-extracting pipelines that aid in grants and proposal-related data
 
 ## Changelog
-2022-01-09 - added Lever for Change bulk data downloader (requires Torque and MWClient credentials)
-           - added Neo4j connector script for notebook integration
+2022-01-09 
+```
+- added Lever for Change bulk data downloader (requires Torque and MWClient credentials)
+- added Neo4j connector script for notebook integration
+```
            
